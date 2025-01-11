@@ -5,7 +5,7 @@ import { Component } from '@angular/core';
   imports: [],
   template: `
     <p>
-      home works!
+      home works sure!
     </p>
   `,
   styleUrl: './home.component.css'
