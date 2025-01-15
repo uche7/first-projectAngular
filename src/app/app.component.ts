@@ -4,6 +4,7 @@ import { HomeComponent } from "./home/home.component";
 @Component({
   selector: 'app-root',
   imports: [HomeComponent],
+  standalone: true,
   template: `<main>
     <p>This is the main content of the app.</p>
     <section>
