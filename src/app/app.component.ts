@@ -6,7 +6,7 @@ import { HomeComponent } from "./home/home.component";
   imports: [HomeComponent],
   standalone: true,
   template: `<main>
-    <p>Hello World</p>
+    <p>By His Grace</p>
     <section>
       <app-home></app-home>
     </section>
