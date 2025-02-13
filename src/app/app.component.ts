@@ -11,7 +11,7 @@ import { HomeComponent } from "./home/home.component";
       <app-home></app-home>
     </section>
   </main>`,
-  // templateUrl: './app.component.html',
+  templateUrl: './app.component.html',
   styleUrl: './app.component.css',
 })
 export class AppComponent {
